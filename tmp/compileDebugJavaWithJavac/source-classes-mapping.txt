@@ -1,0 +1,5 @@
+com/example/admobadsdemo/MainActivity.java
+ com.example.admobadsdemo.MainActivity
+ com.example.admobadsdemo.MainActivity$1
+com/example/admobadsdemo/BuildConfig.java
+ com.example.admobadsdemo.BuildConfig

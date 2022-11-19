@@ -1,0 +1,5 @@
+io/money/admobadsdemo/BuildConfig.java
+ io.money.admobadsdemo.BuildConfig
+io/money/admobadsdemo/MainActivity.java
+ io.money.admobadsdemo.MainActivity
+ io.money.admobadsdemo.MainActivity$1
